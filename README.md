@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Recently graduate in Computer Science from University of Minnesota. Currently working on creating a at home database for personal media usage.
 <!--
 **apoda008/apoda008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
