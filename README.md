@@ -1,5 +1,13 @@
 ## Hi there 👋
-Recently graduate in Computer Science from University of Minnesota. Currently working on creating a at home database for personal media usage.
+Recently graduate in Computer Science from University of Minnesota. Go Gophers! I am also a veteran that served with the 75th Ranger Regiment as an Infantryman during the Iraq and Afhganistan conflicts. 
+
+
+- 🔭 I’m currently working on a Home Media program that communicates solely on the home or selected local network. I would like it to be able to store, sort, and send primarily movies across a home network for viewing on any media capable device (TV, Phone, Laptop). I plan to have it use at least a web page and possibly media casting (like the iphone) for the devices. Maybe a full application at a later date. This will be broken into three seperate systems. One database-esque program to parse the media (a lot of confusing and bloated file names), store in a data structure (Linked-list, Binary Tree, or HashMap), sort that data structure, and send the requested media to the web/app server. Might merge the database and the web/app server into a single program instance.  
+
+
+- 🌱 I’m currently learning C# 12 and .NET 8. I believe this will help with my relatively light experience with Object Orientated Programming. I also plan to use this language/framework as the front facing and server processing side of the Media program I am attempting to create.
+
+- 📫 How to reach me: If you would like to contact me, you can email me at dapoda008@gmail.com
 <!--
 **apoda008/apoda008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
